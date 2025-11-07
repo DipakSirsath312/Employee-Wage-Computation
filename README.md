@@ -26,15 +26,23 @@ encapsulation, and methods — making it an ideal learning project for beginners
 # 🧩 Project Structure
 
 Employee-Wage-Computation/
+
 │
 ├── src/
+
 │   ├── EmployeeWageComputation.java
+
 │   ├── CompanyEmpWage.java
+
 │   ├── EmpWageBuilder.java
+
 │   ├── EmpWageBuilderArray.java
+
 │   └── InterfaceEmpWage.java
+
 │
 ├── README.md
+
 └── LICENSE
 
 ---
@@ -47,5 +55,23 @@ Employee-Wage-Computation/
 | **Concepts**        | OOP, Arrays, Loops, Conditionals, Randomization |
 | **IDE**             | VS Code / Eclipse / IntelliJ IDEA               |
 | **Version Control** | Git & GitHub                                    |
+
+---
+
+# 📊 Example Output
+
+Welcome to Employee Wage Computation Program
+
+For Company: TCS
+Employee is Present
+Daily Wage: 160
+Total Working Days: 20
+Monthly Wage: 3200
+
+For Company: Infosys
+Employee is Absent
+Daily Wage: 0
+Total Working Days: 22
+Monthly Wage: 3520
 
 ---
