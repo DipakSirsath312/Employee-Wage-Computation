@@ -105,17 +105,35 @@ Code Reusability
 # 🏗️ How to Run
 
 1. Clone the repository:
+
    git clone https://github.com/DipakSirsath312/Employee-Wage-Computation.git
 
-2. Navigate into the project folder:
+3. Navigate into the project folder:
+
    cd Employee-Wage-Computation
 
-3. Compile the Java files:
+4. Compile the Java files:
+
    javac -d . src/*.java
 
-4. Run the program:
+6. Run the program:
+
    java EmployeeWageComputation
 
 ---
 
 # 📘 Learning Objectives
+
+By completing this project, you will learn:
+
+✅ How to use classes and interfaces in Java
+
+✅ How to apply object-oriented design principles
+
+✅ How to implement real-world logic using Java constructs
+
+✅ How to write clean, maintainable, and reusable code
+
+---
+
+# 🤝 ContributingS
