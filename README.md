@@ -22,3 +22,30 @@ encapsulation, and methods — making it an ideal learning project for beginners
 🧠 Demonstrates encapsulation and modular programming
 
 ---
+
+# 🧩 Project Structure
+
+Employee-Wage-Computation/
+│
+├── src/
+│   ├── EmployeeWageComputation.java
+│   ├── CompanyEmpWage.java
+│   ├── EmpWageBuilder.java
+│   ├── EmpWageBuilderArray.java
+│   └── InterfaceEmpWage.java
+│
+├── README.md
+└── LICENSE
+
+---
+
+# 💻 Technologies Used
+
+| Component           | Description                                     |
+| ------------------- | ----------------------------------------------- |
+| **Language**        | Java                                            |
+| **Concepts**        | OOP, Arrays, Loops, Conditionals, Randomization |
+| **IDE**             | VS Code / Eclipse / IntelliJ IDEA               |
+| **Version Control** | Git & GitHub                                    |
+
+---
