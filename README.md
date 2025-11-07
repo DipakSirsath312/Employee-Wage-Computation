@@ -63,15 +63,59 @@ Employee-Wage-Computation/
 Welcome to Employee Wage Computation Program
 
 For Company: TCS
+
 Employee is Present
+
 Daily Wage: 160
+
 Total Working Days: 20
+
 Monthly Wage: 3200
 
 For Company: Infosys
+
 Employee is Absent
+
 Daily Wage: 0
+
 Total Working Days: 22
+
 Monthly Wage: 3520
 
 ---
+
+# 🧠 Concepts Demonstrated
+
+Object-Oriented Programming (OOP)
+
+Use of Classes and Interfaces
+
+Loops (for, while)
+
+Conditional Statements (if-else, switch)
+
+Random Attendance Simulation
+
+Arrays and Data Encapsulation
+
+Code Reusability
+
+---
+
+# 🏗️ How to Run
+
+1. Clone the repository:
+   git clone https://github.com/DipakSirsath312/Employee-Wage-Computation.git
+
+2. Navigate into the project folder:
+   cd Employee-Wage-Computation
+
+3. Compile the Java files:
+   javac -d . src/*.java
+
+4. Run the program:
+   java EmployeeWageComputation
+
+---
+
+# 📘 Learning Objectives
